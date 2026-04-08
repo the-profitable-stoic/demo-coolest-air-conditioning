@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Coolest Air Conditioning",
+    "phone": "+17863574250",
+    "category": "HVAC company",
+    "city": "Miami",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Miami's Coolest AC, Guaranteed.",
+      "heroSubline": "Don't sweat it. We deliver rapid, reliable HVAC solutions across Miami-Dade. Call now for immediate service.",
+      "aboutTitle": "Keeping Miami Cool, One Home at a Time.",
+      "aboutText": [
+        "Coolest Air Conditioning started with a simple goal: to provide honest, dependable HVAC service to our neighbors in Miami. We're not just another company; we're a team of experienced professionals who understand the unique challenges of keeping South Florida homes comfortable.",
+        "Our approach is straightforward: diagnose accurately, recommend the right solution, and execute flawlessly. We value integrity and transparency in every interaction, from the initial consultation to the final inspection. We'll never sell you something you don't need.",
+        "Miami is our home, and we're committed to giving back. We actively support local charities and participate in community initiatives. When you choose Coolest Air Conditioning, you're supporting a business that cares about the future of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Rapid Response",
+          "description": "We understand AC emergencies. Expect prompt, reliable service, often within hours."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our certified technicians are trained to handle any HVAC issue, big or small."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprise charges. We provide clear, upfront estimates."
+        },
+        {
+          "title": "Unwavering Guarantee",
+          "description": "We stand behind our work. If you're not satisfied, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Beat the Heat. Call Today!",
+      "ctaSubline": "Get a free quote and experience the Coolest Air Conditioning difference."
+    },
+    "services": [
+      {
+        "slug": "ac-repair",
+        "name": "AC Repair",
+        "shortDescription": "Fast, reliable AC repair services to restore your comfort in Miami's relentless heat.",
+        "description": "Is your AC blowing warm air? Making strange noises? Don't suffer in silence. Coolest Air Conditioning provides rapid AC repair services throughout Miami-Dade. Our certified technicians are equipped to diagnose and repair all makes and models of air conditioning systems, from older units in Art Deco buildings to modern, high-efficiency systems in Brickell condos.\n\nWe understand the urgency of AC problems in Miami's climate. That's why we offer prompt response times and flexible scheduling to get your system back up and running quickly. We use only high-quality parts and proven repair techniques to ensure lasting results. Our technicians are trained to identify underlying issues that could lead to future breakdowns, saving you time and money in the long run.\n\nFrom refrigerant leaks and compressor failures to faulty thermostats and electrical problems, we've seen it all. We'll provide a clear explanation of the problem, a detailed estimate of the repair cost, and a commitment to getting the job done right the first time. Don't let a broken AC ruin your day. Call Coolest Air Conditioning for fast, dependable repair service.",
+        "process": [
+          "Step 1: Schedule your service appointment online or by phone.",
+          "Step 2: Our technician will arrive promptly to diagnose the problem.",
+          "Step 3: We'll provide a clear explanation and upfront pricing.",
+          "Step 4: We'll complete the repair efficiently and effectively."
+        ],
+        "benefits": [
+          "Rapid response times",
+          "Certified, experienced technicians",
+          "Upfront, transparent pricing",
+          "High-quality parts and service"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an AC repair request?",
+            "answer": "We understand the urgency of AC problems in Miami. We strive to provide same-day or next-day service whenever possible."
+          },
+          {
+            "question": "Do you work on all brands of air conditioners?",
+            "answer": "Yes, our technicians are trained to diagnose and repair all makes and models of AC systems, both old and new."
+          },
+          {
+            "question": "What if my AC breaks down again after you repair it?",
+            "answer": "We stand behind our work with a satisfaction guarantee. If you experience any issues after our repair, simply contact us, and we'll make it right."
+          }
+        ]
+      },
+      {
+        "slug": "ac-installation",
+        "name": "AC Installation",
+        "shortDescription": "Expert AC installation services for homes and businesses across Miami-Dade County.",
+        "description": "Upgrading your AC system is a significant investment, and choosing the right contractor is crucial. Coolest Air Conditioning provides professional AC installation services tailored to the unique needs of Miami homes and businesses. Whether you're replacing an outdated unit, upgrading to a more energy-efficient system, or installing AC in a new construction project, we have the expertise to ensure a smooth and successful installation.\n\nWe start with a thorough assessment of your property, considering factors like square footage, insulation, window efficiency, and sun exposure to determine the optimal AC size and type. We offer a wide selection of top-rated brands and models, including ductless mini-splits, central AC systems, and heat pumps. Our technicians are skilled in all aspects of AC installation, from ductwork modifications to electrical connections.\n\nWe understand the importance of proper installation for optimal performance and energy efficiency. We adhere to strict industry standards and local building codes to ensure your new AC system operates safely and reliably for years to come. We'll also provide comprehensive training on how to use and maintain your new system. Don't settle for anything less than the best. Choose Coolest Air Conditioning for expert AC installation services in Miami.",
+        "process": [
+          "Step 1: Schedule a free consultation to discuss your AC needs.",
+          "Step 2: We'll assess your property and recommend the best system for your budget.",
+          "Step 3: Our team will install your new AC system efficiently and professionally.",
+          "Step 4: We'll provide training on how to use and maintain your new system."
+        ],
+        "benefits": [
+          "Proper sizing and selection",
+          "Professional installation",
+          "Improved energy efficiency",
+          "Long-term reliability"
+        ],
+        "faq": [
+          {
+            "question": "How do I know what size AC unit I need?",
+            "answer": "Our experienced technicians will conduct a thorough assessment of your property to determine the appropriate AC size based on several factors."
+          },
+          {
+            "question": "Do you offer financing options for AC installation?",
+            "answer": "Yes, we offer flexible financing options to make AC installation more affordable. Contact us to learn more."
+          },
+          {
+            "question": "How long does AC installation typically take?",
+            "answer": "The installation time depends on the complexity of the project. However, most installations can be completed within one to two days."
+          }
+        ]
+      },
+      {
+        "slug": "ac-maintenance",
+        "name": "AC Maintenance",
+        "shortDescription": "Preventative AC maintenance services to keep your system running smoothly and efficiently in Miami.",
+        "description": "Regular AC maintenance is essential for preventing costly repairs, extending the lifespan of your system, and ensuring optimal performance. Coolest Air Conditioning offers comprehensive AC maintenance services designed to keep your system running smoothly and efficiently throughout the year. Our maintenance program includes a thorough inspection of all system components, cleaning of coils and filters, lubrication of moving parts, and testing of refrigerant levels.\n\nIn Miami's humid climate, AC systems work overtime, making them more susceptible to breakdowns. Regular maintenance can help identify and address minor issues before they escalate into major problems. Our technicians will also check for leaks, corrosion, and other signs of wear and tear. We'll provide you with a detailed report of our findings and recommend any necessary repairs or adjustments.\n\nBy scheduling regular AC maintenance with Coolest Air Conditioning, you can enjoy improved energy efficiency, lower utility bills, and a more comfortable indoor environment. We offer flexible maintenance plans to fit your budget and schedule. Don't wait until your AC breaks down to take action. Contact us today to schedule your AC maintenance appointment.",
+        "process": [
+          "Step 1: Schedule your AC maintenance appointment.",
+          "Step 2: Our technician will perform a thorough inspection and cleaning.",
+          "Step 3: We'll provide a detailed report and recommendations.",
+          "Step 4: Enjoy improved efficiency and reliability."
+        ],
+        "benefits": [
+          "Preventative maintenance",
+          "Improved energy efficiency",
+          "Extended system lifespan",
+          "Reduced repair costs"
+        ],
+        "faq": [
+          {
+            "question": "How often should I schedule AC maintenance?",
+            "answer": "We recommend scheduling AC maintenance at least once a year, preferably in the spring before the start of the cooling season."
+          },
+          {
+            "question": "What's included in your AC maintenance service?",
+            "answer": "Our maintenance service includes a thorough inspection, cleaning, and testing of all system components."
+          },
+          {
+            "question": "Can AC maintenance really save me money?",
+            "answer": "Yes, regular maintenance can improve energy efficiency and prevent costly repairs, ultimately saving you money on utility bills and repair costs."
+          }
+        ]
+      },
+      {
+        "slug": "duct-cleaning",
+        "name": "Duct Cleaning",
+        "shortDescription": "Improve your indoor air quality with professional duct cleaning services in Miami.",
+        "description": "Over time, dust, pollen, mold, and other contaminants can accumulate in your air ducts, impacting your indoor air quality and potentially triggering allergies and respiratory problems. Coolest Air Conditioning offers professional duct cleaning services to remove these contaminants and improve the air you breathe. Our trained technicians use specialized equipment to thoroughly clean and sanitize your ductwork, removing years of accumulated debris.\n\nIn Miami's humid environment, mold growth in air ducts is a common concern. Our duct cleaning process includes the application of a sanitizing agent to kill mold and bacteria, leaving your ductwork clean and fresh. We also inspect your ductwork for leaks or damage and recommend any necessary repairs.\n\nBy scheduling duct cleaning with Coolest Air Conditioning, you can enjoy improved indoor air quality, reduced allergy symptoms, and a more comfortable home environment. We use safe and effective cleaning methods that won't damage your ductwork or release harmful chemicals into your home. Breathe easier with our professional duct cleaning services.",
+        "process": [
+          "Step 1: Schedule your duct cleaning appointment.",
+          "Step 2: Our technicians will inspect your ductwork.",
+          "Step 3: We'll use specialized equipment to clean and sanitize the ducts.",
+          "Step 4: Enjoy improved indoor air quality."
+        ],
+        "benefits": [
+          "Improved air quality",
+          "Reduced allergy symptoms",
+          "Mold and bacteria removal",
+          "More comfortable home environment"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my air ducts cleaned?",
+            "answer": "We recommend having your air ducts cleaned every 3-5 years, or more frequently if you have allergies or pets."
+          },
+          {
+            "question": "Is duct cleaning messy?",
+            "answer": "Our technicians use specialized equipment to contain dust and debris during the cleaning process, minimizing any mess."
+          },
+          {
+            "question": "Can duct cleaning help with allergies?",
+            "answer": "Yes, removing dust, pollen, and other allergens from your air ducts can significantly reduce allergy symptoms."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-ac-service",
+        "name": "24/7 Emergency AC Service",
+        "shortDescription": "Around-the-clock emergency AC repair services when you need them most in Miami.",
+        "description": "When your AC breaks down in the middle of a sweltering Miami night, you need help fast. Coolest Air Conditioning provides 24/7 emergency AC service to restore your comfort as quickly as possible. Our experienced technicians are on call around the clock, ready to respond to your emergency AC needs. We understand that AC problems don't always happen during business hours, and we're committed to providing prompt, reliable service whenever you need us.\n\nWhether it's a complete system failure, a refrigerant leak, or any other AC emergency, we'll dispatch a technician to your location as soon as possible. We arrive prepared with the tools and equipment needed to diagnose and repair most AC problems on the spot. We'll provide a clear explanation of the problem and a detailed estimate of the repair cost before we begin any work.\n\nDon't suffer through a sleepless night in the Miami heat. Call Coolest Air Conditioning for 24/7 emergency AC service. We're here to help you stay cool and comfortable, no matter the time of day or night.",
+        "process": [
+          "Step 1: Call our 24/7 emergency hotline.",
+          "Step 2: We'll dispatch a technician to your location immediately.",
+          "Step 3: Our technician will diagnose the problem and provide an estimate.",
+          "Step 4: We'll complete the repair quickly and efficiently."
+        ],
+        "benefits": [
+          "24/7 availability",
+          "Rapid response times",
+          "Experienced technicians",
+          "On-the-spot repairs"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes an AC emergency?",
+            "answer": "Any AC problem that poses a threat to your comfort or safety, such as a complete system failure or a refrigerant leak, is considered an emergency."
+          },
+          {
+            "question": "How quickly can you respond to an emergency AC call?",
+            "answer": "We strive to respond to emergency AC calls as quickly as possible, typically within an hour or two."
+          },
+          {
+            "question": "Do you charge extra for emergency service?",
+            "answer": "Yes, emergency service calls may incur additional charges. However, we'll always provide a clear explanation of the pricing before we begin any work."
+          }
+        ]
+      },
+      {
+        "slug": "heat-pump-services",
+        "name": "Heat Pump Services",
+        "shortDescription": "Comprehensive heat pump repair, maintenance, and installation services for year-round comfort in Miami.",
+        "description": "While primarily known for cooling, heat pumps offer efficient heating and cooling solutions for Miami homes. Coolest Air Conditioning provides comprehensive heat pump services, including repair, maintenance, and installation. Our technicians are trained to work on all makes and models of heat pumps, ensuring your system operates reliably year-round. \n\nHeat pumps are particularly effective in Miami's mild winters, providing energy-efficient heating without the need for a separate furnace. We can help you choose the right heat pump for your home and install it properly for optimal performance. We also offer routine maintenance services to keep your heat pump running smoothly and prevent costly repairs. If your heat pump is experiencing problems, our technicians will quickly diagnose the issue and provide effective repair solutions.\n\nFrom refrigerant recharges and compressor replacements to fan motor repairs and thermostat adjustments, we handle all types of heat pump repairs. We use only high-quality parts and proven repair techniques to ensure lasting results. Trust Coolest Air Conditioning for all your heat pump needs in Miami.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your heat pump needs.",
+          "Step 2: We'll assess your existing system or recommend a new one.",
+          "Step 3: Our team will perform the necessary repairs, maintenance, or installation.",
+          "Step 4: Enjoy efficient heating and cooling year-round."
+        ],
+        "benefits": [
+          "Efficient heating and cooling",
+          "Expert heat pump technicians",
+          "Comprehensive service",
+          "Year-round comfort"
+        ],
+        "faq": [
+          {
+            "question": "Are heat pumps effective in Miami's climate?",
+            "answer": "Yes, heat pumps are very effective in Miami's mild winters, providing energy-efficient heating."
+          },
+          {
+            "question": "How do I know if my heat pump needs repair?",
+            "answer": "Signs of a heat pump problem include reduced heating or cooling performance, unusual noises, and frequent cycling."
+          },
+          {
+            "question": "Do you offer heat pump maintenance plans?",
+            "answer": "Yes, we offer comprehensive heat pump maintenance plans to keep your system running smoothly and prevent costly repairs."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl",
+        "state": "FL",
+        "content": "Coolest Air Conditioning is proud to provide top-notch HVAC services to the residents of Fort Lauderdale, Florida. Known for its beautiful waterfront homes, many dating back to the 1960s and 70s, Fort Lauderdale presents unique challenges and opportunities for maintaining optimal indoor comfort. Our experienced technicians understand the specific needs of these homes, ensuring that your AC system is running efficiently and effectively. We offer a full range of services, including AC repair, installation, and maintenance to keep you cool year-round. \n\nWith Fort Lauderdale's year-round heat and humidity, a reliable air conditioning system is essential. Coolest Air Conditioning offers prompt and professional service to address any issues you may encounter. From routine maintenance to emergency repairs, we are committed to providing exceptional service to ensure your home remains a cool and comfortable oasis.",
+        "localContext": "Fort Lauderdale is characterized by its extensive canal system, stunning waterfront properties built primarily in the mid-20th century, and a tropical climate that demands reliable air conditioning.",
+        "nearbyAreas": [
+          "Lauderdale-by-the-Sea",
+          "Wilton Manors",
+          "Oakland Park"
+        ]
+      },
+      {
+        "city": "Coral Springs",
+        "slug": "coral-springs-fl",
+        "state": "FL",
+        "content": "Coolest Air Conditioning offers expert HVAC services to the families and businesses of Coral Springs, Florida. As a planned community largely developed in the 1980s and 90s, Coral Springs features many homes with similar air conditioning system needs. Our team is well-versed in the common HVAC setups in these homes, allowing us to quickly diagnose and resolve any issues. From routine maintenance to new system installations, we're here to ensure your comfort.\n\nCoral Springs residents understand the importance of a properly functioning AC system in the face of Florida's relentless heat and humidity. Coolest Air Conditioning is dedicated to providing reliable, affordable, and efficient HVAC solutions to keep your home cool and comfortable. We offer a full suite of services including AC repair, installation, and preventative maintenance.",
+        "localContext": "Coral Springs, a planned community known for its well-maintained neighborhoods and family-friendly atmosphere, requires dependable air conditioning services to combat the year-round heat and humidity typical of South Florida.",
+        "nearbyAreas": [
+          "Parkland",
+          "Coconut Creek",
+          "Margate"
+        ]
+      },
+      {
+        "city": "Pembroke Pines",
+        "slug": "pembroke-pines-fl",
+        "state": "FL",
+        "content": "Coolest Air Conditioning is proud to serve the growing community of Pembroke Pines, Florida. Characterized by its numerous planned developments built in the 1990s and later, Pembroke Pines presents a unique landscape of residential HVAC needs. We specialize in servicing the types of air conditioning systems commonly found in these homes, ensuring efficient and reliable performance. Our expert technicians are equipped to handle all your HVAC requirements, from routine maintenance to complex repairs.\n\nPembroke Pines' residents know that a dependable AC system is a necessity, not a luxury. Coolest Air Conditioning is committed to providing prompt, professional, and affordable HVAC services to keep your home comfortable throughout the year. We offer comprehensive solutions, including AC repair, installation, and maintenance, tailored to meet the specific needs of Pembroke Pines homeowners.",
+        "localContext": "Pembroke Pines, known for its master-planned communities and family-oriented environment, relies on efficient air conditioning systems to combat the persistent heat and humidity of South Florida.",
+        "nearbyAreas": [
+          "Miramar",
+          "Hollywood",
+          "Weston"
+        ]
+      },
+      {
+        "city": "Boca Raton",
+        "slug": "boca-raton-fl",
+        "state": "FL",
+        "content": "Coolest Air Conditioning provides premium HVAC services to the discerning residents of Boca Raton, Florida. Known for its luxurious waterfront estates and upscale living, Boca Raton demands the highest standards of comfort and reliability. We specialize in servicing high-end air conditioning systems, ensuring that your home remains a cool and comfortable sanctuary. Our experienced technicians are dedicated to providing exceptional service and meticulous attention to detail.\n\nBoca Raton's climate requires a robust and efficient air conditioning system. Coolest Air Conditioning offers comprehensive HVAC solutions, including AC repair, installation, and preventative maintenance, tailored to meet the unique needs of Boca Raton homeowners. We understand the importance of maintaining a comfortable indoor environment, and we are committed to exceeding your expectations.",
+        "localContext": "Boca Raton, a city synonymous with luxury living and stunning waterfront estates, requires top-tier air conditioning services to maintain comfortable indoor environments amidst the year-round heat and humidity.",
+        "nearbyAreas": [
+          "Delray Beach",
+          "Deerfield Beach",
+          "Highland Beach"
+        ]
+      },
+      {
+        "city": "West Palm Beach",
+        "slug": "west-palm-beach-fl",
+        "state": "FL",
+        "content": "Coolest Air Conditioning is pleased to offer its expert HVAC services to the residents of West Palm Beach, Florida. With its rich history and diverse architecture, including many homes dating back to the 1920s-50s, West Palm Beach presents unique challenges and opportunities for maintaining optimal indoor comfort. Our team is experienced in working with older homes and understands the specific needs of their HVAC systems. We offer a full range of services, including AC repair, installation, and maintenance, to ensure your home remains comfortable year-round.\n\nWest Palm Beach's subtropical climate makes a reliable air conditioning system essential. Coolest Air Conditioning is committed to providing prompt and professional service to address any issues you may encounter. From routine maintenance to emergency repairs, we strive to deliver exceptional service and ensure your home remains a cool and comfortable haven.",
+        "localContext": "West Palm Beach, characterized by its historical homes from the 1920s-50s and vibrant downtown area, requires specialized air conditioning services to maintain comfort throughout the year's heat and humidity.",
+        "nearbyAreas": [
+          "Palm Beach",
+          "Lake Worth",
+          "Riviera Beach"
+        ]
+      },
+      {
+        "city": "Miramar",
+        "slug": "miramar-fl",
+        "state": "FL",
+        "content": "Coolest Air Conditioning is dedicated to providing reliable HVAC services to the residents of Miramar, Florida. Known for its diverse community and growing residential areas, Miramar relies on efficient and dependable air conditioning systems to combat the year-round heat and humidity. Our team is equipped to handle all your HVAC needs, from routine maintenance to complex repairs and new installations. We understand the importance of a comfortable home environment, and we are committed to providing exceptional service.\n\nIn Miramar, a properly functioning AC system is crucial for maintaining a comfortable living space. Coolest Air Conditioning offers prompt, professional, and affordable HVAC solutions to keep your home cool and comfortable throughout the year. We offer comprehensive services, including AC repair, installation, and maintenance, tailored to meet the specific needs of Miramar homeowners.",
+        "localContext": "Miramar, a diverse and growing city with numerous residential communities, depends on dependable air conditioning services to provide relief from the persistent heat and humidity of South Florida.",
+        "nearbyAreas": [
+          "Pembroke Pines",
+          "Pembroke Park",
+          "Hollywood"
+        ]
+      },
+      {
+        "city": "Plantation",
+        "slug": "plantation-fl",
+        "state": "FL",
+        "content": "Coolest Air Conditioning is proud to offer comprehensive HVAC services to the residents of Plantation, Florida. Characterized by its lush landscaping and family-friendly atmosphere, Plantation demands reliable and efficient air conditioning systems to ensure comfortable living spaces. Our team is well-versed in the HVAC needs of Plantation homes and businesses, offering a full range of services from routine maintenance to complex repairs and new installations.\n\nPlantation's subtropical climate makes a dependable AC system a necessity, not a luxury. Coolest Air Conditioning is committed to providing prompt, professional, and affordable HVAC solutions to keep your home cool and comfortable throughout the year. We offer comprehensive services, including AC repair, installation, and maintenance, tailored to meet the specific needs of Plantation residents.",
+        "localContext": "Plantation, known for its lush landscaping, equestrian culture, and family-friendly environment, relies on efficient air conditioning systems to combat the year-round heat and humidity.",
+        "nearbyAreas": [
+          "Davie",
+          "Sunrise",
+          "Fort Lauderdale"
+        ]
+      },
+      {
+        "city": "Sunrise",
+        "slug": "sunrise-fl",
+        "state": "FL",
+        "content": "Coolest Air Conditioning is pleased to provide top-notch HVAC services to the residents of Sunrise, Florida. As a vibrant city with a mix of residential and commercial properties, Sunrise relies on dependable air conditioning systems to provide comfort and efficiency. Our team is equipped to handle all your HVAC needs, from routine maintenance to complex repairs and new installations. We understand the importance of a comfortable home and work environment, and we are committed to providing exceptional service.\n\nIn Sunrise, a properly functioning AC system is essential for maintaining a comfortable living and working space. Coolest Air Conditioning offers prompt, professional, and affordable HVAC solutions to keep your property cool and comfortable throughout the year. We offer comprehensive services, including AC repair, installation, and maintenance, tailored to meet the specific needs of Sunrise residents and businesses.",
+        "localContext": "Sunrise, a bustling city with a mix of residential and commercial properties, relies on efficient air conditioning systems to maintain comfort throughout the year's heat and humidity.",
+        "nearbyAreas": [
+          "Plantation",
+          "Davie",
+          "Weston"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "My AC died in the middle of July! Coolest Air Conditioning came out within an hour and had it fixed quickly. The technician, David, was professional and explained everything clearly. Highly recommend!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "Ricardo S.",
+        "rating": 4,
+        "service": "AC Installation",
+        "text": "We replaced our old AC unit with a new, energy-efficient model. The installation team was efficient and courteous. There was a small delay getting the permit, but the communication was good. Very happy with the new system.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Jennifer K.",
+        "rating": 5,
+        "service": "AC Maintenance",
+        "text": "I signed up for their annual maintenance plan, and it's been worth every penny. They caught a small refrigerant leak during the tune-up, which saved me from a much bigger repair down the road. Professional and reliable!",
+        "date": "2025-08-01"
+      },
+      {
+        "name": "Omar J.",
+        "rating": 5,
+        "service": "Duct Cleaning",
+        "text": "After the duct cleaning, I noticed a huge difference in the air quality in my home. I have allergies, and I've been breathing much easier since. The team was careful and cleaned up after themselves. Great service!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Laura P.",
+        "rating": 4,
+        "service": "Emergency AC Service",
+        "text": "Our AC broke down on a Sunday evening. I called Coolest Air Conditioning, and they had someone at my house within an hour. The technician was able to fix the problem quickly. A little expensive but worth it for the fast service.",
+        "date": "2025-09-03"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Heat Pump Repair",
+        "text": "My heat pump was making a loud noise and not heating properly. Coolest Air Conditioning diagnosed the problem quickly and replaced the faulty part. The technician was knowledgeable and explained everything clearly. Excellent service!",
+        "date": "2025-04-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Coolest Air Conditioning | Miami AC Repair",
+        "description": "Miami's trusted HVAC experts. Fast AC repair, installation, and maintenance. Beat the heat with reliable service. Call today!"
+      },
+      "about": {
+        "title": "About Coolest Air Conditioning | Miami HVAC",
+        "description": "Learn about Coolest Air Conditioning's commitment to quality HVAC service in Miami. Experienced technicians, transparent pricing, guaranteed satisfaction."
+      },
+      "services": {
+        "title": "Miami AC Services | Repair, Install, Maintenance",
+        "description": "Coolest Air Conditioning offers comprehensive HVAC services in Miami. AC repair, installation, duct cleaning, and more. Expert solutions for your home or business."
+      },
+      "contact": {
+        "title": "Contact Coolest Air Conditioning | Miami HVAC",
+        "description": "Contact Coolest Air Conditioning for reliable HVAC service in Miami. Get a free quote and experience the difference. Call us today!"
+      },
+      "reviews": {
+        "title": "Coolest Air Conditioning Reviews | Miami HVAC",
+        "description": "Read what our customers are saying about Coolest Air Conditioning. See why we're Miami's trusted choice for HVAC repair, installation, and maintenance."
+      },
+      "service-areas": {
+        "title": "Coolest Air Conditioning | Service Areas",
+        "description": "Coolest Air Conditioning provides HVAC services across Miami-Dade County. See our service area map for coverage details."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "ac-repair": "/images/service-ac-repair.webp",
+      "ac-installation": "/images/service-ac-installation.webp",
+      "ac-maintenance": "/images/service-ac-maintenance.webp",
+      "duct-cleaning": "/images/service-duct-cleaning.webp",
+      "emergency-ac-service": "/images/service-emergency-ac-service.webp",
+      "heat-pump-services": "/images/service-heat-pump-services.webp"
+    },
+    "servicesResponsive": {
+      "ac-repair": {
+        "src": "/images/service-ac-repair.webp",
+        "srcset": "/images/service-ac-repair-400w.webp 400w, /images/service-ac-repair-800w.webp 800w, /images/service-ac-repair-1200w.webp 1200w, /images/service-ac-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ac-installation": {
+        "src": "/images/service-ac-installation.webp",
+        "srcset": "/images/service-ac-installation-400w.webp 400w, /images/service-ac-installation-800w.webp 800w, /images/service-ac-installation-1200w.webp 1200w, /images/service-ac-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ac-maintenance": {
+        "src": "/images/service-ac-maintenance.webp",
+        "srcset": "/images/service-ac-maintenance-400w.webp 400w, /images/service-ac-maintenance-800w.webp 800w, /images/service-ac-maintenance-1200w.webp 1200w, /images/service-ac-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "duct-cleaning": {
+        "src": "/images/service-duct-cleaning.webp",
+        "srcset": "/images/service-duct-cleaning-400w.webp 400w, /images/service-duct-cleaning-800w.webp 800w, /images/service-duct-cleaning-1200w.webp 1200w, /images/service-duct-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-ac-service": {
+        "src": "/images/service-emergency-ac-service.webp",
+        "srcset": "/images/service-emergency-ac-service-400w.webp 400w, /images/service-emergency-ac-service-800w.webp 800w, /images/service-emergency-ac-service-1200w.webp 1200w, /images/service-emergency-ac-service.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heat-pump-services": {
+        "src": "/images/service-heat-pump-services.webp",
+        "srcset": "/images/service-heat-pump-services-400w.webp 400w, /images/service-heat-pump-services-800w.webp 800w, /images/service-heat-pump-services-1200w.webp 1200w, /images/service-heat-pump-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
